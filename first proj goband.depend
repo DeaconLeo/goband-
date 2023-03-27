@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1665315884 source:c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\main.cpp
+	<graphics.h>
+	<draw.h>
+	<chessboard.h>
+
+1664878349 c:\users\administrator\onedrive\大二上学期课件\实训\第一个作业：五子棋\ege19.01_all\ege19.01_all\include\graphics.h
+	"ege.h"
+
+1572086753 c:\users\administrator\onedrive\大二上学期课件\实训\第一个作业：五子棋\ege19.01_all\ege19.01_all\include\ege.h
+	"windows.h"
+	<cstdio>
+
+1664697314 source:c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\icon.rc
+
+1665313542 source:c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\src\player.cpp
+	"player.h"
+
+1665401070 c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\include\player.h
+
+1665399526 source:c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\src\draw.cpp
+	"draw.h"
+
+1665401070 c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\include\draw.h
+	<graphics.h>
+	<string.h>
+
+1665401070 c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\include\chessboard.h
+	"player.h"
+	"math.h"
+	"draw.h"
+
+1665317688 source:c:\users\administrator\onedrive\大二上学期课件\实训\first proj goband\src\chessboard.cpp
+	"chessboard.h"
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src\chessboard.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1742" topLine="84" />
+		<BrowseMarks positions="1299,5611" />
+	</File>
+	<File name="icon.rc" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\draw.h" open="1" top="0" tabpos="2">
+		<Cursor position="269" topLine="0" />
+		<BrowseMarks positions="32,108,152,106,203,162" />
+	</File>
+	<File name="src\player.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="947" topLine="23" />
+		<BrowseMarks positions="136,227,353,540,552" />
+	</File>
+	<File name="src\draw.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="39" topLine="12" />
+		<BrowseMarks positions="0,305,477,518,595,692,1040,1578,1734,1948,1969" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2209" topLine="38" />
+		<BrowseMarks positions="105,286,574,824,902,934,1038,1102,2047,2138" />
+	</File>
+	<File name="include\chessboard.h" open="1" top="1" tabpos="4">
+		<Cursor position="919" topLine="0" />
+		<BrowseMarks positions="162,240,441,509,535,563,674,732,782,811,889" />
+	</File>
+	<File name="include\player.h" open="1" top="0" tabpos="6">
+		<Cursor position="441" topLine="0" />
+		<BrowseMarks positions="68,214,256,441" />
+	</File>
+</BrowseTracker_layout_file>
